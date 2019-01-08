@@ -12,3 +12,6 @@
 5. tomcat8 사용.
 
 6. 초기 maven update 필요
+
+7. spring-context를 못찾을 경우
+deployment assembly -> Source : /src/main/webapp, Deploy Path : / 추가 필요
